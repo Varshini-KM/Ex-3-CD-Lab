@@ -4,7 +4,7 @@
 # AIM
 To write a yacc program to recognize a valid arithmetic expression that uses operator +,- ,* and /.
 # ALGORITHM
-1.	Start the program.
+1.	Start the program. 
 2.	Write a program in the vi editor and save it with .l extension.
 3.	In the lex program, write the translation rules for the operators =,+,-,*,/ and for the identifier.
 4.	Write a program in the vi editor and save it with .y extension.
